@@ -18,5 +18,10 @@ The app dynamically reads your commit strings and assigns attributes:
 *  **Bug Paladin**: High defense marks earned from resolving systemic bugs and issues.
 *  **Agile Rogue**: Heavy speed ratings gained from extensive refactoring and cleaning.
 
+**Backend Engine**: Python 3 (Native File Processing, String-parsing Matrix, Datetime calculation)
+* **Web UI Framework**: Flask (Request Routing & Context Rendering)
+* **Frontend Layer**: HTML5 Canvas, Tailwind CSS Core, Google Fonts (Retro Monospace)
+* **Asset Generation**: `html2canvas` CDN integration for instant client-side image rendering
+
 ---
 
